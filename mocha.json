@@ -29,7 +29,7 @@
       "#3300ff"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#11111114"
+      "#3300ff"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#11111114"
@@ -44,16 +44,16 @@
       "#3300ff"
       ],
       "BACKGROUND_PRIMARY": [
-      "#11111114"
+      "#3300ff"
       ],
       "BACKGROUND_SECONDARY": [
-      "#11111114"
+      "#110044"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#11111114"
+      "#330099"
       ],
       "BACKGROUND_TERTIARY": [
-      "#11111114"
+      "#3300ff"
       ],
       "CHANNEL_ICON": [
       "#11111114"
@@ -71,16 +71,16 @@
       "#888888"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#3300ff"
+      "#ffffff"
       ],
       "INTERACTIVE_HOVER": [
-      "#3300ff25"
+      "#ffffff"
       ],
       "INTERACTIVE_MUTED": [
-      "#ff0066"
+      "#ffffff"
       ],
       "INTERACTIVE_NORMAL": [
-      "#3300ff"
+      "#ffffff"
       ],
       "MENTION_BACKGROUND": [
       "#ff550025"
