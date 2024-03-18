@@ -1,137 +1,137 @@
 {
-    "name": "Catppuccin Mocha",
-    "description": "Soothing pastel theme for the high-spirited!",
+    "name": "Pride 1",
+    "description": "Pride Theme for vencord",
     "authors": [
       {
-        "name": "Catppuccin"
+        "name": "PinkJimRussiaGirl"
       }
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#f38ba8"
+      "https://cdn.discordapp.com/attachments/1218876640919031818/1219202902938095617/IMG_7485_Original.jpg?ex=660a722f&is=65f7fd2f&hm=d7d853656829a8fcd071cfc3765b0ffb721e7b1e6d8951287fa758bba2aa9263&"
       ],
       "BACKGROUND_MENTIONED": [
-      "#313244"
+      "#F86C0014"
       ],   
       "BACKGROUND_MENTIONED_HOVER": [   
-      "#6c7086"
+      "#F83700"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT": [     
-      "#f7949414"
+      "#55550014"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#9399b2"
+      "#555500"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#9399b2"
+      "#11111114"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#1e1e2e"
+      "https://cdn.discordapp.com/attachments/1218876640919031818/1219202902938095617/IMG_7485_Original.jpg?ex=660a722f&is=65f7fd2f&hm=d7d853656829a8fcd071cfc3765b0ffb721e7b1e6d8951287fa758bba2aa9263&"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#181825"
+      "#11111114"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#313244"
+      "#11111114"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#181825"
+      "#00440025"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#11111b"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#313244"
+      "#3300ff"
       ],
       "BACKGROUND_PRIMARY": [
-      "#1e1e2e"
+      "#11111114"
       ],
       "BACKGROUND_SECONDARY": [
-      "#181825"
+      "#11111114"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#181825"
+      "#11111114"
       ],
       "BACKGROUND_TERTIARY": [
-      "#11111b"
+      "#11111114"
       ],
       "CHANNEL_ICON": [
-      "#cba6f7"
+      "#11111114"
       ],
       "CHANNELS_DEFAULT": [
-      "#9399b2"
+      "#55555525"
       ],
       "CHAT_BACKGROUND": [
-      "#1e1e2e"
+      "#11111114"
       ],
       "HEADER_PRIMARY": [
-      "#cdd6f4"
+      "#ffffff
       ],
       "HEADER_SECONDARY": [
-      "#bac2de"
+      "#888888"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#eba0ac"
+      "#3300ff"
       ],
       "INTERACTIVE_HOVER": [
-      "#f38ba8"
+      "#3300ff25"
       ],
       "INTERACTIVE_MUTED": [
-      "#585b70"
+      "#ff0066"
       ],
       "INTERACTIVE_NORMAL": [
-      "#9399b2"
+      "#3300ff"
       ],
       "MENTION_BACKGROUND": [
-      "#fab387"
+      "#ff550025"
       ],
       "MENTION_FOREGROUND": [
-      "#181825"
+      "#ff5500"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#11111b"
+      "#11111b25"
       ],
       "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#11111b"
+      "#11111b25"
       ],
  "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#11111b"
+      "#11111b25"
       ],
       "CARD_PRIMARY_BG": [
-      "#1e1e2e"
+      "#1e1e2e25"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-      "#f38ba8"
+      "#f38ba825"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-      "#f38ba8"
+      "#f38ba825"
       ],
       "SCROLLBAR_THIN_THUMB": [
-      "#f38ba8"
+      "#f38ba825"
       ],
       "SCROLLBAR_THIN_TRACK": [
-      "#f38ba8"
+      "#f38ba825"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#9399b2"
+      "#934400"
       ],
       "TEXT_DANGER": [
-      "#f38ba8"
+      "#ff0000"
       ],
       "TEXT_LINK": [
-      "#89b4fa"
+      "#22aaff"
       ],
       "TEXT_MUTED": [
-      "#a6adc8"
+      "#ff0000"
       ],
       "TEXT_NORMAL": [
-      "#cdd6f4"
+      "#ffffff"
       ],
       "TEXT_PRIMARY": [
-      "#cdd6f4"
+      "#ffffff"
       ],
       "TEXT_SECONDARY": [
-      "#a6adc8"
+      "#ffffff"
       ]
   },
     "rawColors": {
