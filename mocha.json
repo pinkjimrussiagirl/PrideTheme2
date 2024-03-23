@@ -26,10 +26,10 @@
       "#11111114"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#110044"
+      "#111111b2"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#110044"
+      "#3300ff"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#11111114"
@@ -47,7 +47,7 @@
       "#111111b2"
       ],
       "BACKGROUND_SECONDARY": [
-      "#3300ff"
+      "#111111b2"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#110055"
